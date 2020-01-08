@@ -67,7 +67,7 @@ public class Start {
 					quit = true;
 					break;
 				}
-				// Make Sure the statement is able to be translator.
+				// Make Sure the statement is able to be translated.
 				LL.console("\n");
 				if (INPUT.length() < 2) {
 					LL.console("TOO SHORT!");
